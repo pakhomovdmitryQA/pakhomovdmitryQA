@@ -105,5 +105,5 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/refs/heads/main/Middle-ru.png)
-[<img src="/Recommendation-1.png" width="280px" hspace="10px" alt="Recommendation-1">](https://github.com/DenisNezhnyansky-QA/DenisNezhnyansky-QA/blob/main/Recommendation-1.png)
+[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/pakhomovdmitryQA/pakhomovdmitryQA/blob/main/image-01-07-26-08-51.png)
+
