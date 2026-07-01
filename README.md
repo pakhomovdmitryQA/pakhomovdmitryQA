@@ -105,5 +105,5 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Middle-ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/pakhomovdmitryQA/pakhomovdmitryQA/refs/heads/main/image-01-07-26-08-51.png)
+[<img src="image-01-07-26-08-51.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/pakhomovdmitryQA/pakhomovdmitryQA/refs/heads/main/image-01-07-26-08-51.png)
 
