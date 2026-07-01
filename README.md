@@ -1,27 +1,32 @@
 ## Hi there 👋
 
+Меня зовут Дмитрий, я начинающий QA Engineer!
+
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?theme=github_dark&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=DenisNezhnyansky-QA
+![](https://github-readme-stats.vercel.app/api?theme=github_dark&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=pakhomovdmitryQA
 )
-![](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&layout=donut&langs_count=6&hide_progress=true&username=DenisNezhnyansky-QA
+![](https://github-readme-stats.vercel.app/api/top-langs/?theme=github_dark&layout=donut&langs_count=6&hide_progress=true&username=pakhomovdmitryQA
 )
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=high-contrast&username=DenisNezhnyansky-QA
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=high-contrast&username=pakhomovdmitryQA
 )
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
 ### 👩‍💻 Обо мне:
 
-Мне нравится решать сложные задачи, выстраивать процессы тестирования с нуля. Не страшно если нет документации на проекте или я единственный QA в команде.   
+С огромным удовольствием возьмусь за новый проект! Мне не страшны огромные объемы
+информации, незнакомые термины, запутанные архитектуры и общения с новыми
+людьми. Мне важно, чтобы у меня появилась цель. Тогда я буду самым
+мотивированным тестировщиком!
 
 Меня захватывает процесс тестирования и возможность отдать пользователю удобный и полезный продукт без дефектов.
 
-Ежедневно практикуюсь в автотестах, могу создать простого телеграм бота, который будет генерить данные для тестирования граничных значений. Изучаю алгоритмы и фреймворки (Pyhton 3, Selenium, Cypress).
+Изучаю алгоритмы и фреймворки (Pyhton 3, Selenium, Cypress).
 
 Открыт к предложениям на позицию Qa engineer (тестировщик). Если у вас есть вакансия, которая соответствует моим навыкам и опыту, не стесняйтесь связаться со мной — буду рад сотрудничеству 🙌
 
