@@ -108,3 +108,7 @@
 ## 🎒 Образование
 [<img src="image-01-07-26-08-51.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/pakhomovdmitryQA/pakhomovdmitryQA/refs/heads/main/image-01-07-26-08-51.png)
 
+## 🤝 Контакт
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ne.blitz199721@mail.ru)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/blitzi97)
+
